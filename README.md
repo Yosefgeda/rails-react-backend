@@ -36,7 +36,9 @@
 
 # 📖 [rails-react-backend] <a name="about-project"></a>
 
-**Introduction project to setup rails back-end API that gets messages stored in database.  
+**Introduction project to setup rails back-end API that gets messages stored in database.
+** Link for front-end
+** https://github.com/Yosefgeda/rails-react-frontend/pull/1  
 
 ## 🛠 Built With <a name="built-with"></a>
 
